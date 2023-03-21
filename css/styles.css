@@ -1,0 +1,49 @@
+@import "./colors.css";
+@import "./fonts.css";
+@import "./common.css";
+@import "./header.css";
+@import "./main-menu.css";
+@import "./aside.css";
+@import "./content.css";
+@import "./footer.css";
+
+
+
+
+
+
+
+
+
+/*
+h1{
+	color:red;
+	text-align:center;
+}
+p{
+	font-size:25px;
+	border:1px red solid;
+	margin-top:20px;
+	margin-bottom:50px;
+	margin-left:15px;
+	margin-right:25px;
+}
+p.primero:first-child::first-letter{
+	font-size:40px;
+	color:yellow;
+}
+div{
+	border:2px green solid;
+	margin: 30px 10px 15px 30px;
+	margin:auto;
+}
+body{
+	background-image:url("C:/Users/apanes/Desktop/Imagenes Malaga/20211124125014_655583_ticket_v2.jpeg");
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:scroll;
+	background-color:pink;
+	margin:auto;
+}
+*/
